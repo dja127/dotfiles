@@ -3,6 +3,7 @@ syntax enable
 " Use the Solarized Dark theme
 set background=dark
 colorscheme solarized
+let g:solarized_termcolors=256
 
 set nocompatible " should not try to be compatible with Vi
 " Enhance command-line completion
